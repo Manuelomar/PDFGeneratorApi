@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "VfEwicxvQxkyt/NUU+xWU3j3sH8wkWHTmd3Zp5Okyz4=",
+  "Source": "PdfGenerator",
+  "BasePath": "_content/PdfGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PdfGenerator\\wwwroot",
+      "Source": "PdfGenerator",
+      "ContentRoot": "C:\\Solvex\\hotel\\SPIFF\\PdfGenerator\\PdfGenerator\\wwwroot\\",
+      "BasePath": "_content/PdfGenerator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

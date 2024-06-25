@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>{{tituloDocumento}}</title>
+</head>
+<body>
+    <h1>{{titulo}}</h1>
+    <p>Estimado/a {{nombreDestinatario}},</p>
+    <p>
+        Me dirijo a usted para expresar mi interés en el puesto de {{puestoDeseado}}
+        en su empresa. Soy un/a profesional con experiencia en el campo y estoy
+        entusiasmado/a con la oportunidad de formar parte de su equipo.
+    </p>
+    <h2>Habilidades:</h2>
+    <ul>
+        {{#each habilidades}}
+        <li>{{this}}</li>
+        {{/each}}
+    </ul>
+    <p>{{introduccion}}</p>
+    <p>{{cierre}}</p>
+    <p>Atentamente,</p>
+    <p>{{nombreRemitente}}</p>
+    <p>{{fechaActual}}</p>
+</body>
+</html>

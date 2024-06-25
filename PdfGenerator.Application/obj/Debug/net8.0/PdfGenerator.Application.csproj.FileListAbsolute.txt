@@ -1,0 +1,15 @@
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\PdfGenerator.Application.csproj.AssemblyReference.cache
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\PdfGenerator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\PdfGenerator.Application.AssemblyInfoInputs.cache
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\PdfGenerator.Application.AssemblyInfo.cs
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\PdfGenerator.Application.csproj.CoreCompileInputs.cache
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\bin\Debug\net8.0\PdfGenerator.Application.deps.json
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\bin\Debug\net8.0\PdfGenerator.Application.dll
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\bin\Debug\net8.0\PdfGenerator.Application.pdb
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\bin\Debug\net8.0\PdfGenerator.Domain.dll
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\bin\Debug\net8.0\PdfGenerator.Domain.pdb
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\PdfGener.F7B64520.Up2Date
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\PdfGenerator.Application.dll
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\refint\PdfGenerator.Application.dll
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\PdfGenerator.Application.pdb
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Application\obj\Debug\net8.0\ref\PdfGenerator.Application.dll

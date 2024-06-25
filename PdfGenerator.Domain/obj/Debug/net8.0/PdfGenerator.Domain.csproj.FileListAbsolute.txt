@@ -1,0 +1,11 @@
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\obj\Debug\net8.0\PdfGenerator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\obj\Debug\net8.0\PdfGenerator.Domain.AssemblyInfoInputs.cache
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\obj\Debug\net8.0\PdfGenerator.Domain.AssemblyInfo.cs
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\obj\Debug\net8.0\PdfGenerator.Domain.csproj.CoreCompileInputs.cache
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\bin\Debug\net8.0\PdfGenerator.Domain.deps.json
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\bin\Debug\net8.0\PdfGenerator.Domain.dll
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\bin\Debug\net8.0\PdfGenerator.Domain.pdb
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\obj\Debug\net8.0\PdfGenerator.Domain.dll
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\obj\Debug\net8.0\refint\PdfGenerator.Domain.dll
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\obj\Debug\net8.0\PdfGenerator.Domain.pdb
+C:\Solvex\hotel\SPIFF\PdfGenerator\PdfGenerator.Domain\obj\Debug\net8.0\ref\PdfGenerator.Domain.dll
